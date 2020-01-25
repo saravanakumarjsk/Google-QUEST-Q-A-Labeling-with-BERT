@@ -1,5 +1,5 @@
 # Google-QUEST-Q-A-Labeling-with-BERT
-Google QUEST Q&amp;A Labeling with BERT
+Improving automated understanding of complex question answer content
 
 ### Description
 Computers are really good at answering questions with single, verifiable answers. But, humans are often still better at answering questions about opinions, recommendations, or personal experiences.
